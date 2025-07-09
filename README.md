@@ -2,7 +2,7 @@
 
 💻 Application Security Engineer | 🛡️ Offensive Security Enthusiast | 
 
-I'm a cybersecurity professional with 6+ years of hands-on experience in application security, penetration testing, and secure code review. 
+I'm a cybersecurity professional with 7+ years of hands-on experience in application security, penetration testing, and secure code review. 
 I specialize in identifying and remediating vulnerabilities in modern web applications, APIs, and cloud-native environments.
 
 🔧 Technical Focus
